@@ -2,7 +2,7 @@
 
 ## RabbitMQ Server
 
-Doc: [RabbitMQ](https://rabbitmq.com) is a [feature rich](https://rabbitmq.com/documentation.html), multi-protocol messaging broker. It supports:
+Doc: [RabbitMQ](https://rabbitmq.com) is a [feature rich](https://rabbitmq.com/documentation.html)
 
 ## RabbitMQ Delayed Message Plugin
 
