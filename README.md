@@ -1,4 +1,4 @@
-# ABOUT RABBITMQ
+# Resume to doc from RabbitMQ and Delayed Plugin from github
 
 ## RabbitMQ Server
 
