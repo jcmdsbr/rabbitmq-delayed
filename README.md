@@ -1,10 +1,20 @@
-# Resume from RabbitMQ and Delayed Plugin from github
+# The RabbitMQ and Delayed Plugin from github :sunglasses:
 
-## RabbitMQ Server
+- Building a docker image from rabbitmq use delayed plugin 
+
+## Give a Star! :star:
+
+If you liked the project, please give a star ;)
+
+## You need some of the fallowing tools :exclamation:
+
+-  Visual Studio Code or another editor
+
+## Description :books:
 
 Doc: [RabbitMQ](https://rabbitmq.com) is a [feature rich](https://rabbitmq.com/documentation.html)
 
-## RabbitMQ Delayed Message Plugin
+### RabbitMQ Delayed Message Plugin 💡
 
 This plugin adds delayed-messaging (or scheduled-messaging) to
 RabbitMQ.
